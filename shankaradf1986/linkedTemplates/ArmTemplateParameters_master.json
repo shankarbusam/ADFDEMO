@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "shankaradf1986"
+		},
+		"AzureSqlDatabase1_connectionString": {
+			"value": ""
+		},
+		"AzureSqlsalesDatabase_connectionString": {
+			"value": ""
+		},
+		"foodreviewsdestination_connectionString": {
+			"value": ""
+		},
+		"foodreviewssource_connectionString": {
+			"value": ""
+		},
+		"linkAzureBlobStorage_connectionString": {
+			"value": ""
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
