@@ -1,0 +1,17 @@
+{
+	"name": "pl_git",
+	"properties": {
+		"activities": [
+			{
+				"name": "wait actvity",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 1
+				}
+			}
+		],
+		"annotations": []
+	}
+}
